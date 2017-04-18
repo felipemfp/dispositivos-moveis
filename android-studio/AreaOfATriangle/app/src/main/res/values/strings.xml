@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Area of a Triangle</string>
+
+    <string name="base_label">Base</string>
+    <string name="height_label">Height</string>
+    <string name="area_label">Area</string>
+    <string name="perimeter_label">Perimeter</string>
+    <string name="submit_button">Calculate</string>
+</resources>
