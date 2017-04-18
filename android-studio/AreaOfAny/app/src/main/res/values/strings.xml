@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Area Of Any</string>
+
+    <string name="shape_label">Shape</string>
+    <string name="ratio_label">Ratio</string>
+    <string name="base_label">Base</string>
+    <string name="height_label">Height</string>
+    <string name="area_label">Area</string>
+    <string name="submit_button">Calculate</string>
+
+    <string-array name="shapes_array">
+        <item>Rectangle</item>
+        <item>Square</item>
+        <item>Circle</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
