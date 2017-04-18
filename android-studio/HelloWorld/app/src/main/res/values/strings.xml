@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="course_name">Análise e Desenvolvimento de Sistemas</string>
+    <string name="class_name">Des. para Dispositivos Móveis</string>
+    <string name="student_name">Felipe Pontes</string>
+</resources>
